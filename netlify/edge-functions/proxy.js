@@ -5,23 +5,23 @@ export const config = { path: "/*" };
 // 域名映射配置（代理前缀统一为 nf-xxx.）
 const domain_mappings = {
   'github.com': 'nf-gh.wu-xi.xyz',
-  'avatars.githubusercontent.com': 'nf-avatars-githubusercontent-com.wu-xi.xyz',
-  'github.githubassets.com': 'nf-github-githubassets-com.wu-xi.xyz',
-  'collector.github.com': 'nf-collector-github-com.wu-xi.xyz',
-  'api.github.com': 'nf-api-github-com.wu-xi.xyz',
-  'raw.githubusercontent.com': 'nf-raw-githubusercontent-com.wu-xi.xyz',
-  'gist.githubusercontent.com': 'nf-gist-githubusercontent-com.wu-xi.xyz',
-  'github.io': 'nf-github-io.wu-xi.xyz',
-  'assets-cdn.github.com': 'nf-assets-cdn-github-com.wu-xi.xyz',
-  'cdn.jsdelivr.net': 'nf-cdn.jsdelivr-net.wu-xi.xyz',
-  'securitylab.github.com': 'nf-securitylab-github-com.wu-xi.xyz',
-  'www.githubstatus.com': 'nf-www-githubstatus-com.wu-xi.xyz',
-  'npmjs.com': 'nf-npmjs-com.wu-xi.xyz',
-  'git-lfs.github.com': 'nf-git-lfs-github-com.wu-xi.xyz',
-  'githubusercontent.com': 'nf-githubusercontent-com.wu-xi.xyz',
-  'github.global.ssl.fastly.net': 'nf-github-global-ssl-fastly-net.wu-xi.xyz',
-  'api.npms.io': 'nf-api-npms-io.wu-xi.xyz',
-  'github.community': 'nf-github-community.wu-xi.xyz'
+  'avatars.githubusercontent.com': 'nf-avatars-githubusercontent-com.',
+  'github.githubassets.com': 'nf-github-githubassets-com.',
+  'collector.github.com': 'nf-collector-github-com.',
+  'api.github.com': 'nf-api-github-com.',
+  'raw.githubusercontent.com': 'nf-raw-githubusercontent-com.',
+  'gist.githubusercontent.com': 'nf-gist-githubusercontent-com.',
+  'github.io': 'nf-github-io.',
+  'assets-cdn.github.com': 'nf-assets-cdn-github-com.',
+  'cdn.jsdelivr.net': 'nf-cdn.jsdelivr-net.',
+  'securitylab.github.com': 'nf-securitylab-github-com.',
+  'www.githubstatus.com': 'nf-www-githubstatus-com.',
+  'npmjs.com': 'nf-npmjs-com.',
+  'git-lfs.github.com': 'nf-git-lfs-github-com.',
+  'githubusercontent.com': 'nf-githubusercontent-com.',
+  'github.global.ssl.fastly.net': 'nf-github-global-ssl-fastly-net.',
+  'api.npms.io': 'nf-api-npms-io.',
+  'github.community': 'nf-github-community.'
 };
 
 // 需要重定向的路径
